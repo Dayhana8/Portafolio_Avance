@@ -1,0 +1,43 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+#_idContainer000, #_idContainer001, #_idContainer002, #_idContainer003, #_idContainer004, #_idContainer005, #_idContainer006, #_idContainer007, #_idContainer008, #_idContainer009, #_idContainer010, #_idContainer011, #_idContainer012, #_idContainer013, #_idContainer015 {
+	display:inline-block;
+	height:595px;
+	width:842px;
+}
+#_idContainer014 {
+	display:inline-block;
+	height:416px;
+	overflow:hidden;
+	width:549px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	-ms-transform:translate(0.000%,1.560%) rotate(0.000deg) skew(0.000deg) scale(1.000,0.968);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000%,1.560%) rotate(0.000deg) skew(0.000deg) scale(1.000,0.968);
+	-webkit-transform-origin:0% 0%;
+	height:100.00%;
+	min-width:100%;
+	transform:translate(0.000%,1.560%) rotate(0.000deg) skew(0.000deg) scale(1.000,0.968);
+	transform:translate(0.000%,1.560%) rotate(0.000deg) skew(0.000deg) scale(1.000,0.968);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
